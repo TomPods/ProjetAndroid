@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name" translatable="false">Calculatrice</string>
+    
+    <!-- Navigation headers -->
+    <string name="nav_calculatrice">calculatrice</string>
+    <string name="nav_jeu">jeu</string>
+    <string name="nav_highscores">meilleurs scores</string>
+    <string name="nav_historique">historique</string>
+
+    <!-- Main Activity -->
+    <string name="text_bouton_calculatrice">Calculatrice</string>
+    <string name="text_bouton_jeu">Jeu</string>
+    <string name="text_bouton_highscores">Highscores</string>
+    <string name="text_bouton_historique">Historique</string>
+    
+    <!-- Game Activity -->
+    <string name="score_label">Score :</string>
+    <string name="lives_label">Vies :</string>
+    <string name="answer_hint">Votre réponse</string>
+    <string name="submit_button">Valider</string>
+    <string name="language_button">🌐 Langue</string>
+    <string name="enter_answer">Entrez une réponse</string>
+    <string name="invalid_answer">Réponse invalide</string>
+    <string name="correct">Correct !</string>
+    <string name="wrong">Faux !</string>
+    <string name="game_over">Partie terminée</string>
+    <string name="your_score">Votre score :</string>
+    <string name="enter_name">Entrez votre nom</string>
+    <string name="save">Enregistrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="score_saved">Score enregistré !</string>
+    
+    <!-- High Score Activity -->
+    <string name="highscores_title">Meilleurs Scores</string>
+    <string name="back_button">Retour</string>
+    <string name="no_scores">Aucun score enregistré</string>
+    
+    <!-- Calculatrice Activity -->
+    <string name="text_bouton_plus" translatable="false">+</string>
+    <string name="text_bouton_moins" translatable="false">-</string>
+    <string name="text_bouton_multiplier" translatable="false">×</string>
+    <string name="text_bouton_diviser" translatable="false">/</string>
+    <string name="text_bouton_zero" translatable="false">0</string>
+    <string name="text_bouton_un" translatable="false">1</string>
+    <string name="text_bouton_deux" translatable="false">2</string>
+    <string name="text_bouton_trois" translatable="false">3</string>
+    <string name="text_bouton_quatre" translatable="false">4</string>
+    <string name="text_bouton_cinq" translatable="false">5</string>
+    <string name="text_bouton_six" translatable="false">6</string>
+    <string name="text_bouton_sept" translatable="false">7</string>
+    <string name="text_bouton_huit" translatable="false">8</string>
+    <string name="text_bouton_neuf" translatable="false">9</string>
+</resources>
