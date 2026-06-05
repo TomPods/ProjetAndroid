@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Calculatrice</string>
+
+    <!-- Main Activity -->
+    <string name="text_bouton_calculatrice">Calculator</string>
+    <string name="text_bouton_jeu">Game</string>
+    <string name="text_bouton_highscores">High Scores</string>
+    <string name="text_bouton_historique">History</string>
+
+    <!-- Navigation headers -->
+    <string name="nav_calculatrice">calculator</string>
+    <string name="nav_jeu">game</string>
+    <string name="nav_highscores">high scores</string>
+    <string name="nav_historique">history</string>
+
+    <!-- Game Activity -->
+    <string name="score_label">Score:</string>
+    <string name="lives_label">Lives:</string>
+    <string name="answer_hint">Your answer</string>
+    <string name="submit_button">Submit</string>
+    <string name="language_button">🌐 Language</string>
+    <string name="enter_answer">Enter an answer</string>
+    <string name="invalid_answer">Invalid answer</string>
+    <string name="correct">Correct!</string>
+    <string name="wrong">Wrong!</string>
+    <string name="game_over">Game Over</string>
+    <string name="your_score">Your score:</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="score_saved">Score saved!</string>
+
+    <!-- High Score Activity -->
+    <string name="highscores_title">High Scores</string>
+    <string name="back_button">Back</string>
+    <string name="no_scores">No scores recorded</string>
+</resources>

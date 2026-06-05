@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bouton_menu_calcul"
+        android:title="Fais Le Calcul"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bouton_menu_raz"
+        android:title="RAZ" />
+    <item
+        android:id="@+id/bouton_menu_retour"
+        android:title="Retour au menu"
+        app:showAsAction="always" />
+</menu>
